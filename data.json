@@ -1,47 +1,37 @@
 [
     {
-        "item_title": "hahahah",
-        "item_path": "D:\\Programming\\PHP\\flow_presentation\\exfile\\AppUserController.php",
+        "item_title": "source_file.php",
+        "item_path": "D:\\Programming\\PHP\\flow_presentation\\source_file.php",
         "item_function": "handle()"
     },
     {
-        "item_title": "22222222222",
-        "item_path": "D:\\Programming\\PHP\\flow_presentation\\exfile\\Controller.php",
+        "item_title": "LaravelKernel.php",
+        "item_path": "D:\\Programming\\Server\\laravel\\app\\Http\\Kernel.php",
         "item_function": "handleRaw()"
     },
     {
-        "item_title": "333333",
-        "item_path": "D:\\Programming\\PHP\\flow_presentation\\exfile\\Controller.php",
+        "item_title": "Handler",
+        "item_path": "D:\\Programming\\Server\\laravel\\app\\Exceptions\\Handler.php",
         "item_function": "handleRawNew()"
     },
     {
-        "item_title": "22222222222",
-        "item_path": "D:\\Programming\\PHP\\flow_presentation\\exfile\\Controller.php",
+        "item_title": "UserFactory()",
+        "item_path": "D:\\Programming\\Server\\laravel\\database\\factories\\UserFactory.php",
         "item_function": "handleRaw()"
     },
     {
-        "item_title": "333333",
-        "item_path": "D:\\Programming\\PHP\\flow_presentation\\exfile\\Controller.php",
+        "item_title": "Route.php",
+        "item_path": "D:\\Programming\\Server\\laravel\\routes\\web.php",
         "item_function": "handleRawNew()"
     },
     {
-        "item_title": "22222222222",
-        "item_path": "D:\\Programming\\PHP\\flow_presentation\\exfile\\Controller.php",
+        "item_title": "view_blade",
+        "item_path": "D:\\Programming\\Server\\laravel\\resources\\views\\welcome.blade.php",
         "item_function": "handleRaw()"
     },
     {
-        "item_title": "333333",
-        "item_path": "D:\\Programming\\PHP\\flow_presentation\\exfile\\Controller.php",
-        "item_function": "handleRawNew()"
-    },
-    {
-        "item_title": "22222222222",
-        "item_path": "D:\\Programming\\PHP\\flow_presentation\\exfile\\Controller.php",
+        "item_title": "js_file",
+        "item_path": "D:\\Programming\\Server\\laravel\\resources\\js\\app.js",
         "item_function": "handleRaw()"
-    },
-    {
-        "item_title": "333333",
-        "item_path": "D:\\Programming\\PHP\\flow_presentation\\exfile\\Controller.php",
-        "item_function": "handleRawNew()"
     }
 ]

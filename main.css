@@ -19,19 +19,20 @@
 }
 
 #content {
-    background-color: rgb(253, 203, 245);
+    background-color: rgb(249, 193, 240);
 }
 
 #tree .item {
     margin: 10px 0px;
-    background-color: rgba(255, 239, 199, 0.736);
+    background-color: rgba(248, 229, 180, 0.736);
     padding: 0px 5px 5px 5px;
     border-radius: 5px;
     opacity: 0.3;
+    cursor:pointer;
 }
 
 .item_title {
-    color: #04c8ce;
+    color: #126bf0;
     font-weight: bold;
     font-size: 1em;
     text-align: right;
@@ -51,7 +52,6 @@
     color: rgb(90, 89, 89);
     font-size: 0.7em;
     text-align: right;
-
     position: relative;
     bottom: 0;
     right: 0;
@@ -78,5 +78,5 @@
     flex-grow: 1;
     padding: 20px;
     background-color: azure;
-    margin-bottom: 10px;
+    margin: 10px 0px;
 }

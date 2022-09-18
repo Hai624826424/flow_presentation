@@ -43,6 +43,7 @@ function fillContent(item) {
     contentEle = $("#content_info");
     content = item.clone();
     content.children(".item_page_number").remove();
+    content.children(".item_title").css('font-size', "1.5em");
     contentEle.html(content.html());
     callAjax(item.children(".item_path").html());
 }
